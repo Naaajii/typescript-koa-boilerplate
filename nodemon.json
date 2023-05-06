@@ -1,7 +1,7 @@
 {
     "ignore": [
-        "**/*.test.ts",
-        "**/*.spec.ts",
+        "/src/**/*.test.ts",
+        "/src/**/*.spec.ts",
         "node_modules"
     ],
     "watch": [
